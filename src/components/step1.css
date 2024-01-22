@@ -1,0 +1,9 @@
+.input-group{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.input-group > label > span {
+    color: red;
+}
